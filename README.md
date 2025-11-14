@@ -19,14 +19,11 @@ Back4App (Parse Server) is used as the backend to store user accounts and tasks.
 ## Back4App Task Class Structure
 
 ```
-
-| Field       | Type    | Description                   |
-| ----------- | ------- | ----------------------------- |
-| title       | String  | Task title (required)         |
-| description | String  | Optional description          |
-| dueDate     | Date    | Required due date             |
-| isCompleted | Boolean | Default: false                |
-| owner       | Pointer | Pointer to `_User` (required) |
+title       - String  - Task title (required)         
+description - String  - Optional description          
+dueDate     - Date    - Required due date             
+isCompleted - Boolean - Default: false                
+owner       - Pointer - Pointer to `_User` (required) 
 
 ```
 
