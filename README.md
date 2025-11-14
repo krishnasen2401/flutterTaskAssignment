@@ -79,18 +79,19 @@ flutter run
 5. Mark tasks as completed using the checkbox
 6. Edit or delete tasks
 7. Logout when done
-## Screenshots (Add your own)
-* Login screen
-* Register screen
-* Task list
-* Create task
-* Edit task
+## Screenshots
+Login
+<img width="1220" height="2712" alt="login" src="https://github.com/user-attachments/assets/9dce9bab-0ee3-4d96-a87f-4bc0be94afe2" />
+edit task
+<img width="1220" height="2712" alt="edittask" src="https://github.com/user-attachments/assets/590bd084-d9ad-4577-a7ba-327b4a4308f4" />
+create task
+<img width="1220" height="2712" alt="createtask" src="https://github.com/user-attachments/assets/35d0f886-14b6-4862-8850-c5d28114c7f9" />
+tasklist
+<img width="1220" height="2712" alt="tasklist" src="https://github.com/user-attachments/assets/77d8825a-4898-4f2d-a5f6-d069b333528a" />
+registration
+<img width="1220" height="2712" alt="registration" src="https://github.com/user-attachments/assets/face05f4-e1ab-4646-bec9-7780968b7d06" />
 ## Notes
 
 * Each task is linked to the authenticated user through the **owner** pointer.
 * ACL ensures only the task owner can read/update/delete their tasks.
 * Internet connection is required for the app to work.
-
----
-
-If you need a **PPT**, **video script**, or a **GitHub description section**, tell me — I can generate those too.
